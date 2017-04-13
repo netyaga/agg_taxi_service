@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.class
+*.log
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### Maven template
+target/
+
+.gitignore
+.idea/
+agg_taxi_service.iml
